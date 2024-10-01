@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description> Loaner Request</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">09e55f4093c11210fcdc7e018bba1067</icon>
+        <name>Details</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 09:16:08</sys_created_on>
+        <sys_id>5de5df8c93451210fcdc7e018bba10b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Loaner Request" source="x_24313_loaner_req">d964db0893451210fcdc7e018bba10ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">d964db0893451210fcdc7e018bba10ec</sys_scope>
+        <sys_update_name>sys_sg_details_screen_5de5df8c93451210fcdc7e018bba10b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 09:16:08</sys_updated_on>
+        <table>x_24313_loaner_req_loaner_request</table>
+    </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=5de5df8c93451210fcdc7e018bba10b1"/>
+</record_update>
